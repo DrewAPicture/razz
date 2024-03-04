@@ -1,0 +1,11 @@
+{
+    "name": "werdswords/razz",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-4": {
+            "Werdswords\\Razz\\": "src/"
+        }
+    },
+    "require": {}
+}
